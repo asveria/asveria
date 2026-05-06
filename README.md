@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![asveria's GitHub stats 2026](https://github-readme-stats.vercel.app/api?username=asveria&show_icons=true&count_private=true&show=discussions_answered&hide=issues,prs,reviews&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&border_color=30363d&bg_color=0d1117&rank_icon=github&commits_year=2026)
+![stats 2026](https://github-readme-stats.vercel.app/api?username=asveria&show_icons=true&count_private=true&show=discussions_answered&hide=issues,prs,reviews&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&border_color=30363d&bg_color=0d1117&rank_icon=github&commits_year=2026)
+<!--
 ![asveria's GitHub stats 2027](https://github-readme-stats.vercel.app/api?username=asveria&show_icons=true&count_private=true&show=discussions_answered&hide=issues,prs,reviews&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&border_color=30363d&bg_color=0d1117&rank_icon=github&commits_year=2027)
+-->
+```
+fas
+```
+![Uptime](https://img.shields.io/website?url=https%3A%2F%2Flaundered.cash&label=laundered.cash&style=flat-square&color=70a5fd&down_color=red&down_message=offline&up_message=online&logo=checkmarx)
+
+![💰 uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/asveria/upptime/master/api/laundered-cash/uptime.json&label=%F0%9F%92%B0%20uptime&style=flat-square&color=70a5fd)
+![💰 response time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/asveria/upptime/master/api/laundered-cash/response-time.json&label=%F0%9F%92%B0%20response%20time&style=flat-square&color=70a5fd)
