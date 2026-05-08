@@ -1,28 +1,21 @@
-![banner](https://raw.githubusercontent.com/asveria/asveria/refs/heads/main/asvcropped.jpg)
+![Banner](https://raw.githubusercontent.com/asveria/asveria/refs/heads/main/bannercropped.jpg)
 
-# welcome to my github - about me
+<h2 align="center"> welcome to my github - about me</h2>
+
+Hello, I'm asveria. I am a man of many trades in the online sphere, I have known my way around computers and the internet ever since I was a young kid. I am a cybersecurity enthusiast, batch developer, a frontend developer, and a I am currently 
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,sublime,cloudflare,windows,powershell&theme=dark)](https://skillicons.dev)
+
+<h2 align="center">current project</h2>
 
 
+<img src="https://raw.githubusercontent.com/asveria/asveria/refs/heads/main/Laundered.png" width="150" align="left">
 
-<!--
-**asveria/asveria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laundered.cash is a stylish invite only bio/portfolio service, the project was founded on April 12th of 2026 by the user @rich. This service allows its users to display their online personas with confidence through sleek dashboards with lots of features, providing well rounded page customization and functionality.
 
-Here are some ideas to get you started:
+![Status](https://img.shields.io/website?url=https%3A%2F%2Flaundered.cash&label=laundered.cash&style=flat-square&color=70a5fd&down_color=red&down_message=offline&up_message=online&logo=checkmarx)
+ 
+<br clear="left"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ![stats 2026](https://github-readme-stats.vercel.app/api?username=asveria&show_icons=true&count_private=true&show=discussions_answered&hide=issues,prs,reviews&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&border_color=30363d&bg_color=0d1117&rank_icon=github&commits_year=2026)
-<!--
-![asveria's GitHub stats 2027](https://github-readme-stats.vercel.app/api?username=asveria&show_icons=true&count_private=true&show=discussions_answered&hide=issues,prs,reviews&title_color=70a5fd&text_color=c9d1d9&icon_color=bf91f3&border_color=30363d&bg_color=0d1117&rank_icon=github&commits_year=2027)
--->
-```
-fas
-```
-![Uptime](https://img.shields.io/website?url=https%3A%2F%2Flaundered.cash&label=laundered.cash&style=flat-square&color=70a5fd&down_color=red&down_message=offline&up_message=online&logo=checkmarx)
