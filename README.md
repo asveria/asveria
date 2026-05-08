@@ -1,4 +1,6 @@
-## Hi there 👋
+## asveria
+
+- 
 
 <!--
 **asveria/asveria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +24,3 @@ Here are some ideas to get you started:
 fas
 ```
 ![Uptime](https://img.shields.io/website?url=https%3A%2F%2Flaundered.cash&label=laundered.cash&style=flat-square&color=70a5fd&down_color=red&down_message=offline&up_message=online&logo=checkmarx)
-
-![💰 uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/asveria/upptime/master/api/laundered-cash/uptime.json&label=%F0%9F%92%B0%20uptime&style=flat-square&color=70a5fd)
-![💰 response time](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/asveria/upptime/master/api/laundered-cash/response-time.json&label=%F0%9F%92%B0%20response%20time&style=flat-square&color=70a5fd)
