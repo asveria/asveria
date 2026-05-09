@@ -41,7 +41,6 @@ Laundered.cash is a stylish invite only bio/portfolio service, the project was f
 ---
 
 <br clear="left"/>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=asveria&theme=telegram&hide_border=true&mode=weekly&background=800%2C000000%2C306378" />
 </p>
