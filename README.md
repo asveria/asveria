@@ -2,7 +2,7 @@
 
 <h2 align="center">welcome to my github - about me</h2>
 
-Hello 👋, I am asveria. I'm a man of many trades in the online sphere and I've known my way around the internet from a young age. I am a cybersecurity enthusiast well versed in the space of identity protection, personal security, and fraud prevention with more than 4 years of experience. The development work I do and take part in involves languages like batch, html, css, etc, I am a windows (batch) and frontend developer that is capible of producing good creations and keeping people protected online.
+Hey! 👋, I'm asveria. I'm a man of many trades in the online sphere and I've known my way around the internet from quite a young age. I am a cybersecurity enthusiast well versed in the space of identity protection, personal security, and fraud prevention with more than 4 years of experience. The development work I do and take part in involves languages like batch, html, css, etc, I am a windows (batch) and frontend developer that is capible of producing good creations and keeping people protected online.
 
 ---
 
