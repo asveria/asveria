@@ -25,13 +25,13 @@ Laundered.cash is a stylish invite only bio/portfolio service, the project was f
 <p>
   <span style="display: inline-flex; gap: 8px; align-items: center;">
     <img src="https://img.shields.io/website?url=https%3A%2F%2Flaundered.cash&style=flat-square&label=laundered.cash&labelColor=0e0e0e&color=3d8b5e&down_color=f25c2f&logo=cashapp&logoColor=3d8b5e&up_message=online&down_message=offline" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
     <img src="https://img.shields.io/discord/1493305263988674650?style=flat-square&label=members&labelColor=0e0e0e&color=3d8b5e&logo=discord&logoColor=3d8b5e" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
    <a href="https://laundered.cash">
     <img src="https://img.shields.io/badge/laundered.cash-visit%20website-0e0e0e?style=flat-square&logo=google-chrome&logoColor=3d8b5e&labelColor=0e0e0e&color=3d8b5e" />
   </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
   <a href="https://discord.com/invite/hmz9mkdERG">
     <img src="https://img.shields.io/badge/discord-join%20server-0e0e0e?style=flat-square&logo=discord&logoColor=3d8b5e&labelColor=0e0e0e&color=3d8b5e" />
   </a>
